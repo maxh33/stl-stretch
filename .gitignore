@@ -1,0 +1,21 @@
+# Third-party models (MakerWorld etc.) and files derived from them: not ours to redistribute
+input/
+output/
+work/
+*.stl
+*.3mf
+*.step
+*.stp
+*.f3d
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets safety net
+.env
+.env*.local
+*secret*
+*.pem
+*.key
