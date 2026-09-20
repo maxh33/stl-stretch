@@ -28,6 +28,10 @@ ruining the holes and ratchet teeth, and adjusted the part to what I needed. The
 files, and all that was left for the professional was to press print. This repo is that evening, cleaned up so the next
 person with the same problem doesn't need one.
 
+I built it with [Claude Code](https://claude.com/claude-code) as a pair-programming assistant: it wrote most of the code
+while I set the goal, chose the trade-offs and reviewed every result. Because of that, nothing here is taken on trust:
+each stretch is checked against its expected length and volume, and there is a test.
+
 ---
 
 ## How it works

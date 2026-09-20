@@ -29,6 +29,10 @@ estragar os furos e os dentes do ratchet e ajustei a peça conforme a minha nece
 prontos e customizados, e ao profissional só faltava apertar o botão de imprimir. Este repositório é aquele fim de
 tarde, organizado para que a próxima pessoa com o mesmo problema não precise gastar o dela.
 
+Construí com o [Claude Code](https://claude.com/claude-code) como par de programação: ele escreveu boa parte do código
+enquanto eu definia o objetivo, escolhia os trade-offs e revisava cada resultado. Por isso nada aqui é aceito na
+confiança: cada alongamento é conferido contra o comprimento e o volume esperados, e há um teste.
+
 ---
 
 ## Como funciona
