@@ -1,5 +1,6 @@
-"""Build one print-ready 3MF per project: each part oriented for printing, arranged on a 256x256 bed, one object per part.
-usage: make_plates.py   (writes output/*.3mf)"""
+"""Personal example: one print-ready 3MF per project (parts oriented for printing, arranged on a 256x256 bed, one object per part).
+Paths and measures are specific to two MakerWorld models that are NOT included (see README); adapt them to your own parts.
+usage, from the repo root: PYTHONPATH=src python examples/make_plates.py   (writes output/*.3mf)"""
 import numpy as np, trimesh
 from orient import poses
 

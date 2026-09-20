@@ -1,6 +1,11 @@
 [project]
 name = "3d-printing"
 version = "0.1.0"
+description = "Lengthen STL/3MF parts for 3D printing without distorting holes, threads or chamfers"
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "Max Haider" }]
+keywords = ["3d-printing", "stl", "3mf", "mesh", "trimesh", "bambu-studio", "cli-tool", "python"]
 requires-python = ">=3.12"
 dependencies = [
     "lxml>=6.1.3",
